@@ -116,7 +116,7 @@ jobs:
 
       with:
 
-        cluster_name: 'apsv-24'
+        cluster_name: 'apsv-25'
 
         location: 'us-central1'
 
